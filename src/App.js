@@ -7,13 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <LoveThemeInviteCard 
-        names={partnerName}
-        eventType="Sinh Nhật"
-        date="Thứ Bảy, 1 tháng 11 năm 2025"
-        time="19:30"
-        location="Bí mật"
-      />
+      <LoveThemeInviteCard />
     </div>
   );
 }
