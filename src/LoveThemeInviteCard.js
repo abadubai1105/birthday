@@ -12,6 +12,7 @@ const HEART_CHARS = ["💗", "💕", "💖", "💘", "❤️", "💝"];
 const PARTICLE_COLORS = ["#ff5e7e", "#ff8fab", "#ffd166", "#ff3d68", "#ffffff", "#ff9fb3"];
 
 const TEASE_MESSAGES = [
+  "Nếu còn giận thì bấm vô đây",
   "Năn nỉ ó",
   "Năn nỉ ó 2 🍝",
   "Năn nỉ ó 9999 🙏",
